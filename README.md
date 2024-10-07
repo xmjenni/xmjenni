@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @xmjenni
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>Hi! Me chamo Jennifer</h2>
 
+
+- 💻 Deselvovedora em andamento
+- 📚 Estudante de Análise e desenvolvimento de sistemas pela FATEC
+- ⚡ Focada em Front-end pelo bootcamp da Oracle + Alura
+  
 <!---
 xmjenni/xmjenni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -31,7 +30,9 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <h2>BADGES</h2>
-  <img height="165px" src="https://github.com/xmjenni/xmjenni/blob/main/cms_files_10224_1671211139Prancheta_3.png">
+  <img height="170px" src="https://github.com/xmjenni/xmjenni/blob/main/cms_files_10224_1671211139Prancheta_3.png">
 </div>
 
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmjenni&layout=compact&theme=dracula)
+##
