@@ -2,8 +2,8 @@
 
 
 - 💻 Deselvovedora em andamento
-- 📚 Estudante de Análise e desenvolvimento de sistemas pela FATEC
-- ⚡ Focada em Front-end pelo bootcamp da Oracle + Alura
+- 📚 Estudante de **Análise e desenvolvimento de sistemas** pela **FATEC**
+- ⚡ Focada em **Front-end** pelo bootcamp da **Oracle + Alura**
   
 <!---
 xmjenni/xmjenni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
