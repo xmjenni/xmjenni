@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h2>BADGES</h2>
   <img height="170px" src="https://github.com/xmjenni/xmjenni/blob/main/cms_files_10224_1671211139Prancheta_3.png">
-  <img height="170px" scr="https://github.com/xmjenni/xmjenni/blob/main/Badge-Port.png">
+  <img height="170px" scr="https://github.com/xmjenni/xmjenni/blob/main/badge_port.png">
 </div>
 
 ##
