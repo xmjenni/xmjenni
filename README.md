@@ -1,7 +1,7 @@
 <h2>Hi! Me chamo Jennifer</h2>
 
 
-- 💻 Deselvovedora em andamento
+- 💻 Desenvolvedora em andamento
 - 📚 Estudante de **Análise e desenvolvimento de sistemas** pela **FATEC**
 - ⚡ Focada em **Front-end** pelo bootcamp da **Oracle + Alura**
   
